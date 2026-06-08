@@ -2,7 +2,7 @@
 
 ### AI Engineer & Architect | Data Scientist | Greater Geneva Area 🇨🇭
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-dialloaladji-blue?style=flat&logo=linkedin)](https://linkedin.com/in/dialloaladji)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dialloaladji-blue?style=flat&logo=linkedin)](linkedin.com/in/aladji-diallo-ad)
 [![Email](https://img.shields.io/badge/Email-dialloalgass90%40gmail.com-red?style=flat&logo=gmail)](mailto:dialloalgass90@gmail.com)
 
 ---
