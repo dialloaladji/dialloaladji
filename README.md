@@ -16,7 +16,7 @@ I am a **Data & AI professional with 8 years of experience** helping internation
 My work sits at the intersection of **data strategy, analytics, product thinking and AI engineering**. I focus on building solutions that are not only technically robust, but also useful for business teams, measurable through clear KPIs, and scalable across organizations.
 
 * 🏢 Currently: **Senior Data Scientist & Analytics AI Lead** at **Sonepar International Services**, Geneva
-* 🏗️ Built and scaled **SIKA**, an end-to-end analytics platform on **Azure Databricks**, serving senior business stakeholders across multiple countries and operating companies
+* 🏗️ Built and scaled **SIKA** (Sonepar international Key Accounts), an end-to-end analytics platform on **Azure Databricks**, serving senior business stakeholders across multiple countries and operating companies
 * 🤖 Designed applied AI solutions using **LLM agents, RAG pipelines, product data enrichment, forecasting and business intelligence**
 * 🌍 Experienced in international environments, bridging business teams, data teams and engineering teams
 * 🇨🇭 Based near Geneva | **Swiss cross-border worker — Permis G**
